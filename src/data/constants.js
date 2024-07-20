@@ -239,7 +239,7 @@ export const projects = [
     description:
       "Dive into my world of creativity and professionalism. Explore my journey, skills, and projects through a seamless and interactive experience crafted with HTML, CSS, and React.js.",
     image:
-      "",
+      "https://github.com/ashajyothi06/personal-portfolio-24/blob/main/Screenshot%202024-05-23%20154412.png",
     tags: ["React Js", "HTML", "CSS", "Node JS"],
     category: "web app",
     github: "https://github.com/rishavchanda/Todo-Web-App",
