@@ -173,7 +173,7 @@ export const experiences = [
     role: "Mentor ",
     company: "GirlScript Summer of Code",
     date: "Oct 2024- Present",
-    desc: "Contributing to different open-source projects and learn from industry experts",
+    desc: "I was selected as a mentor for GirlScript Summer of Code 2024, where I guide and support aspiring developers in open-source contributions over a three-month period. My role includes helping participants understand project requirements, providing code reviews, troubleshooting, and fostering best practices in coding and collaboration. This mentorship not only aids participants in building practical skills but also enhances their confidence and understanding of open-source development, teamwork, and problem-solving in a real-world coding environment.",
   },
   {
     id: 3,
@@ -229,7 +229,10 @@ export const projects = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWOC0EX2DFMEea8CQ48KuQBnjDszPxDUKCaQ&usqp=CAU",
     tags: ["python", "CNN", "Tensorflow", "pandas"],
-    
+    category: "machine learning",
+    github: "https://github.com/ashajyothi06/Real-time-MinProject",
+    webapp: "https://github.com/ashajyothi06/Real-time-MinProject",
+  
     
   },
   {
@@ -239,7 +242,7 @@ export const projects = [
     description:
       "Dive into my world of creativity and professionalism. Explore my journey, skills, and projects through a seamless and interactive experience crafted with HTML, CSS, and React.js.",
     image:
-      "https://github.com/ashajyothi06/personal-portfolio-24/blob/main/Screenshot%202024-05-23%20154412.png",
+      "https://th.bing.com/th?id=OIP.iE9vDw5D2a-JCAC5WpIxKwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
     tags: ["React Js", "HTML", "CSS", "Node JS"],
     category: "web app",
     github: "https://github.com/ashajyothi06/personal-portfolio-24?tab=readme-ov-file",
@@ -266,7 +269,7 @@ export const projects = [
     image: "https://th.bing.com/th/id/OIP.fMuuk7YS9HlnimNqls46ywHaEK?w=348&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     
     tags: ["HTML", "CSS", "Javascript"],
-    category: "Blogging website",
+    category: "web app",
     github: "https://github.com/ashajyothi06/blogging-web",
     webapp: "https://github.com/ashajyothi06/blogging-web",
   },
@@ -286,9 +289,9 @@ export const projects = [
     title: "Todo list app using React",
     date: "Aug 2024",
     description:"I created a to-do list app using React, HTML, and CSS, featuring task addition, deletion, and completion tracking with a responsive and user-friendly design. React’s state management ensures real-time updates for a seamless user experience",
-    image:"https://github.com/ashajyothi06/Todo-List-/blob/main/Screenshot%202024-10-27%20110506.png",
+    image:"https://th.bing.com/th?id=OIP.75QV7SzR942bUAiGAiWveAHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2",
     tags: ["HTML", "CSS", "React"],
-    category: "frontend",
+    category: "web app",
     github: "https://github.com/ashajyothi06/Todo-List-",
     webapp: "https://github.com/ashajyothi06/Todo-List-",
   },
