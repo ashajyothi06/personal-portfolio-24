@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ashajyothi06",
   resume:
-    "https://drive.google.com/file/d/1esV8El-k4uTx71shxQRe0DVo7-N85xNT/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1j4juKjM_dhxB9Aqnoer8GepbshVSxydD/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/velpula-ashajyothi-1409981b0",
   twitter: "https://twitter.com/lovedbyone06",
   insta: "https://www.instagram.com/ashajyothi_06/",
